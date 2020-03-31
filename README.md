@@ -1,8 +1,8 @@
 # COVID-19 Tracker by Zinglecode
 
-COVID-19 Tracker, created by React x Leaflet. (Youtube version)
-
 https://www.youtube.com/watch?v=olYXlF4Qa5o
+
+COVID-19 Tracker, created by React x Leaflet. (Youtube version)
 
 ## Requirements
 
